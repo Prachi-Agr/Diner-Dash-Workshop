@@ -15,7 +15,7 @@ The Diner Dash workshop provides an interactive avenue for participants to learn
 | 9pm  | [Cut off for submissions, Participants can check the leaderboard for winners](#Submission-platform-and-leaderboard) |
 
 ## Introduction to Reinforcement Learning
-Distinguished Speaker: [Akshay Narayan](https://www.comp.nus.edu.sg/cs/bio/anarayan/)
+Speaker: [Akshay Narayan](https://www.comp.nus.edu.sg/cs/bio/anarayan/)
 
 Background of this field of RL (both theoretical and practical applications)
 
@@ -70,7 +70,7 @@ Please use this [website](https://aisummerschool.aisingapore.org/) for submissio
 - [RL Library for tensorflow](https://github.com/tensorflow/agents): [TF agent DQN Tutorial](https://github.com/tensorflow/agents/blob/master/docs/tutorials/1_dqn_tutorial.ipynb)
 
 ## Acknowledgements
-### Distinguished Speaker
+### Tutorial Speaker
 - [Akshay Narayan](https://www.comp.nus.edu.sg/cs/bio/anarayan/)
 
 ### Diner Dash Simulator
