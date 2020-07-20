@@ -34,7 +34,7 @@ Please refer to the [diner dash repo](https://github.com/AdaCompNUS/diner-dash-s
 Using RL, maximise the average rewards from 100 games/episodes of Diner Dash.
 
 ### Challenge Platform
-We will be using Google Colab for this challenge. The challenge template and further instructions are provided [here](https://drive.google.com/file/d/1Tgxwvoa4gTTy5hdbzFh_XdDacQ7vE1jy/view?usp=sharing).
+We will be using Google Colab for this challenge. The challenge template and further instructions are provided [here](https://github.com/AISG-Technology-Team/Diner-Dash-Workshop/blob/master/Challenge_Template.ipynb). Please open the notebook in colab and create a copy in your gdrive.
 
 ### Submission Format
 - Google Colab Notebook (.ipynb)
@@ -58,7 +58,7 @@ We will be using Google Colab for this challenge. The challenge template and fur
                 }
         ```
 
-A sample submission can be found [here](https://github.com/BenjaminChua/DinerDashChallengePrep/tree/master/DinerDashChallenge/sample_submission).
+A sample submission can be found [here](https://github.com/AISG-Technology-Team/Diner-Dash-Workshop/tree/master/sample_submission).
 
 ### Submission platform and leaderboard
 Please use this [website](https://aisummerschool.aisingapore.org/) for submissions as well as viewing the leaderboard.
