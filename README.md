@@ -4,7 +4,7 @@
 The Diner Dash workshop provides an interactive avenue for participants to learn about Reinforcement Learning (RL). Diner Dash is a game where a single waiter makes complex decisions on customer seating arrangements, taking orders, serving food and many others. In groups of 2 or 3, participants would test out RL baselines and compete with one another for the highest score in the Diner Dash simulator. 
 
 ## Official Schedule
-#### 4 August 2020, Tuesday
+#### 4 August 2020, Tuesday (GMT +8)
 | **Time** | **Programme** |
 | - | - |
 | 9am | [Introduction to Reinforcement Learning](#Introduction-to-Reinforcement-Learning) |
