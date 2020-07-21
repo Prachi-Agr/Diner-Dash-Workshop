@@ -57,8 +57,11 @@ We will be using Google Colab for this challenge. The challenge template and fur
 
 A sample submission can be found [here](https://github.com/AISG-Technology-Team/Diner-Dash-Workshop/tree/master/sample_submission).
 
-### Submission platform and leaderboard
-Each of you should have been given a link for submission and viewing of the leaderboard. Please keep this link private and do not share it with others. If you face any difficulty in using the link, please contact [Linxu](mailto:linxu@aisingapore.org).
+### Submission platform
+Each group should have been given **one** link for submission and viewing of the leaderboard. Please keep this link private and do not share it with other groups. If you face any difficulty in using the link, please contact [Linxu](mailto:linxu@aisingapore.org).
+
+### Leaderboard
+Only the algorithm with the highest rewards from each submission would be considered for the leaderboard. For example, if a submission has 2 algos randomAgent & PPO with an average reward of 500 and 600 respectively, only PPO, 600 would be considered when comparing with submissions from other teams. Subsequent submissions from the same team would replace their previous submission. As such, please check to ensure that a higher average reward can be achieved by the subsequent submission.
 
 ### Question and Answer
 We will be using this repo's [issues](https://github.com/AISG-Technology-Team/Diner-Dash-Workshop/issues) for question and answers. Please discuss within your group first and if the query is still unresolved, check if a relevant issue has been raised. If none exist, please raise a new issue. Feel free to answer other participants' queries as well if you have faced similar issues and found a resolution.
