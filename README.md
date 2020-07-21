@@ -42,17 +42,17 @@ We will be using Google Colab for this challenge. The challenge template and fur
     - Please ensure that the notebook is ran and displays training outputs
     - Action lists in notebook must match the submitted json file
 - Json file (.json)
-    - With lists of actions in order of random seeds given (Please do not change the key name "actionDict")
+    - With lists of actions in order of random seeds given for each algo
         ```
         # Assuming 2 random seeds with 2 algos (randomAgent & PPO)
-        "actionDict": {
+        {
             "randomAgent": 
                 [[6, 45, 32, 53, 4],
-                 [27, 3, 12, 34, 1]],
+                [27, 3, 12, 34, 1]],
             "PPO":
                 [[13, 42, 31, 2, 4, 8],
-                 [31, 14, 15, 18, 35, 56, 46]]        
-                }
+                [31, 14, 15, 18, 35, 56, 46]]
+        }
         ```
 
 A sample submission can be found [here](https://github.com/AISG-Technology-Team/Diner-Dash-Workshop/tree/master/sample_submission).
