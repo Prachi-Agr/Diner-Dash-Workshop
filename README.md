@@ -58,7 +58,10 @@ We will be using Google Colab for this challenge. The challenge template and fur
 A sample submission can be found [here](https://github.com/AISG-Technology-Team/Diner-Dash-Workshop/tree/master/sample_submission).
 
 ### Submission platform and leaderboard
-Each of you should have been given a link for submission and viewing of the leaderboard. Please keep this link private and do not share it with others. If you face any difficulty in using the link, please contact [Linxu](mailto:linxu@aisingapore.org). Otherwise, for other  questions on submission, please raise an [issue](https://github.com/AISG-Technology-Team/Diner-Dash-Workshop/issues).
+Each of you should have been given a link for submission and viewing of the leaderboard. Please keep this link private and do not share it with others. If you face any difficulty in using the link, please contact [Linxu](mailto:linxu@aisingapore.org).
+
+### Question and Answer
+We will be using this repo's [issues](https://github.com/AISG-Technology-Team/Diner-Dash-Workshop/issues) for question and answers. Please discuss within your group first and if the query is still unresolved, check if a relevant issue has been raised. If none exist, please raise a new issue. Feel free to answer other participants' queries as well if you have faced similar issues and found a resolution.
 
 ## Additional Resources
 - [RL Stable Baselines Repo](https://github.com/hill-a/stable-baselines)
