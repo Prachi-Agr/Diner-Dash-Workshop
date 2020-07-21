@@ -38,13 +38,10 @@ We will be using Google Colab for this challenge. The challenge template and fur
 
 ### Submission Format
 - Google Colab Notebook (.ipynb)
-    - Please ensure that it is fully ran
-    - Output matches the submitted json file
+    - Filled with names of group members and algorithms used
+    - Please ensure that the notebook is ran and displays training outputs
+    - Action lists in notebook must match the submitted json file
 - Json file (.json)
-    - With names of members in the group (Please do not change the key name "names")
-        ```
-        "names": "john, mary, bryan"
-        ```
     - With lists of actions in order of random seeds given (Please do not change the key name "actionDict")
         ```
         # Assuming 2 random seeds with 2 algos (randomAgent & PPO)
