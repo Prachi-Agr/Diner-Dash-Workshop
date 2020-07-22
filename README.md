@@ -58,8 +58,8 @@ A sample submission can be found [here](https://github.com/AISG-Technology-Team/
 Each participant should have been given a link via email for submission and viewing of the leaderboard. Please keep this link private and do not share it with others. If you face any difficulty in using the link, please contact [Linxu](mailto:linxu@aisingapore.org).
 
 ### Submission rules
-1. Each group can only submit a maximum of 5 submissions
-2. Only the best performing submission per group would be kept and ranked in the leaderboard. However, please double check the average rewards before submitting to ensure that subsequent submissions perform better than the previous.
+- Each group can only submit a maximum of 5 submissions
+- Only the best performing submission per group would be kept and ranked in the leaderboard. However, please double check the average rewards before submitting to ensure that subsequent submissions perform better than the previous.
 
 ### Question and Answer
 We will be using this repo's [issues](https://github.com/AISG-Technology-Team/Diner-Dash-Workshop/issues) for question and answers. Please discuss within your group first and if the query is still unresolved, check if a relevant issue has been raised. If none exist, please raise a new issue. Feel free to answer other participants' queries as well if you have faced similar issues and found a resolution.
