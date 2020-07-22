@@ -31,12 +31,13 @@ Please refer to the [diner dash repo](https://github.com/AdaCompNUS/diner-dash-s
 - A Google account
 
 ### Objective
-Using RL, maximise the average rewards from 100 games/episodes of Diner Dash.
+Using RL algos and a **maximum training timestep of 10 million**, maximise the average rewards from 100 games/episodes of Diner Dash.
 
 ### Challenge Platform
 We will be using Google Colab for this challenge. The challenge template and further instructions are provided [here](https://github.com/AISG-Technology-Team/Diner-Dash-Workshop/blob/master/Challenge_Template.ipynb). Please open the notebook in colab and create a copy in your gdrive.
 
 ### Submission Format
+A single zipped file containing:
 - Google Colab Notebook (.ipynb)
     - Filled with names of group members and algorithms used
     - Please ensure that the notebook is ran and displays training outputs
@@ -58,7 +59,7 @@ We will be using Google Colab for this challenge. The challenge template and fur
 A sample submission can be found [here](https://github.com/AISG-Technology-Team/Diner-Dash-Workshop/tree/master/sample_submission).
 
 ### Submission platform
-Each group should have been given **one** link for submission and viewing of the leaderboard. Please keep this link private and do not share it with other groups. If you face any difficulty in using the link, please contact [Linxu](mailto:linxu@aisingapore.org).
+Each participant should have been given a link via email for submission and viewing of the leaderboard. Please keep this link private and do not share it with others. If you face any difficulty in using the link, please contact [Linxu](mailto:linxu@aisingapore.org).
 
 ### Leaderboard
 Only the algorithm with the highest rewards from each submission would be considered for the leaderboard. For example, if a submission has 2 algos randomAgent & PPO with an average reward of 500 and 600 respectively, only PPO, 600 would be considered when comparing with submissions from other teams. Subsequent submissions from the same team would replace their previous submission. As such, please check to ensure that a higher average reward can be achieved by the subsequent submission.
