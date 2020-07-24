@@ -11,8 +11,8 @@ This workshop provides an interactive avenue for participants to learn about Rei
 | 10am | [Diner Dash Introduction](#Diner-Dash-Introduction) |
 | 10:30am | [Diner Dash Challenge Briefing](#Diner-Dash-Challenge) |
 | 11am | [Start of Challenge](#Diner-Dash-Challenge) |
-| 4pm  | [Random seeds given for testing, Submission portal opens](#Submission-platform-and-leaderboard) |
-| 9pm  | [Cut off for submissions, Participants can check the leaderboard for winners](#Submission-platform-and-leaderboard) |
+| 4pm  | [Random seeds given for testing,](#Random-seeds) [Submission platform opens](#Submission-platform) |
+| 9pm  | Cut off for submissions |
 
 ## Introduction to Reinforcement Learning
 Speaker: [Akshay Narayan](https://www.comp.nus.edu.sg/cs/bio/anarayan/)
@@ -36,8 +36,11 @@ Using Reinforcement Learning(RL) algorithms and a **maximum training timestep of
 ### Challenge Platform
 We will be using Google Colab for this challenge. The challenge template and further instructions are provided [here](https://github.com/AISG-Technology-Team/Diner-Dash-Workshop/blob/master/Challenge_Template.ipynb). Please open the notebook in colab and create a copy in your Google Drive.
 
+### Random seeds
+100 random seeds would be uploaded to this repo as per the [official schedule](#Official-Schedule). Each seed is used to initialise an environment/game where trained models decide on the action to take to maximises rewards. The list of actions taken is returned for submission. (see "Testing of Policies and Verification of Submission" section in the [template notebook](https://github.com/AISG-Technology-Team/Diner-Dash-Workshop/blob/master/sample_submission/Diner_Dash_Challenge_Submission.ipynb))
+
 ### Submission Format
-A **single zipped file (.zip)** containing:
+Please choose **both files** before submitting:
 - Google Colab Notebook (.ipynb)
     - Filled with names of group members and algorithms used
     - Please ensure that the notebook is ran and displays training outputs
@@ -45,10 +48,13 @@ A **single zipped file (.zip)** containing:
 - Json file (.json)
     - With lists of actions in order of random seeds
         ```
+        # [6, 45, 32, 53, 4] corresponds to the first seed
+        # [27, 3, 12, 34, 1, 18]] corresponds to the second seed
+        # The list of actions do NOT have to be the same length
         {
             "randomAgent": 
                 [[6, 45, 32, 53, 4],
-                [27, 3, 12, 34, 1]],
+                [27, 3, 12, 34, 1, 18]],
         }
         ```
 
@@ -57,9 +63,14 @@ A sample submission can be found [here](https://github.com/AISG-Technology-Team/
 ### Submission platform
 Each participant should have been given a link via email for submission and viewing of the leaderboard. Please keep this link private and do not share it with others. If you face any difficulty in using the link, please contact [Linxu](mailto:linxu@aisingapore.org).
 
+Alternatively, the leaderboard can be viewed at this [link](https://aisummerschool.aisingapore.org/submission) as well.
+
 ### Submission rules
 - Each group can only submit a maximum of 5 submissions
 - Only the best performing submission per group would be kept and ranked in the leaderboard. However, please double check the average rewards before submitting to ensure that subsequent submissions perform better than the previous.
+
+### Submission dateline
+Cut off time for submission is as per the [official schedule](#Official-Schedule)
 
 ### Question and Answer
 We will be using this repo's [issues](https://github.com/AISG-Technology-Team/Diner-Dash-Workshop/issues) for question and answer. Please discuss within your group first and if the query is still unresolved, check if a relevant issue has been raised. If none exist, please raise a new issue. Feel free to answer other participants' queries as well if you have faced similar issues and found a resolution.
