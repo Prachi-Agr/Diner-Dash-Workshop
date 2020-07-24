@@ -37,7 +37,9 @@ Using Reinforcement Learning(RL) algorithms and a **maximum training timestep of
 We will be using Google Colab for this challenge. The challenge template and further instructions are provided [here](https://github.com/AISG-Technology-Team/Diner-Dash-Workshop/blob/master/Challenge_Template.ipynb). Please open the notebook in colab and create a copy in your Google Drive.
 
 ### Random seeds
-100 random seeds would be uploaded to this repo as per the [official schedule](#Official-Schedule). Each seed is used to initialise an environment/game where trained models decide on the action to take to maximises rewards. The list of actions taken is returned for submission. (see "Testing of Policies and Verification of Submission" section in the [template notebook](https://github.com/AISG-Technology-Team/Diner-Dash-Workshop/blob/master/sample_submission/Diner_Dash_Challenge_Submission.ipynb))
+100 random seeds would be uploaded to this repo as per the [official schedule](#Official-Schedule). Each seed is used to initialise an environment/game where trained models decide on the action to take to maximises rewards. The list of actions taken is returned for submission. 
+
+Please see the "Testing of Policies and Verification of Submission" section in the [template notebook](https://github.com/AISG-Technology-Team/Diner-Dash-Workshop/blob/master/sample_submission/Diner_Dash_Challenge_Submission.ipynb)) for an example of how to use the random seeds.
 
 ### Submission Format
 Please choose **both files** before submitting:
