@@ -99,4 +99,4 @@ We will be using this repo's [issues](https://github.com/AISG-Technology-Team/Di
 - Haixun
 - Sean
 
-[Back to top](#Diner-Dash-Workshop)
+[Back to top](#Reinforcement-Learning:-DinerDash-challenge)
