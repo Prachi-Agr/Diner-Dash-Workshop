@@ -29,6 +29,8 @@ Please refer to the [diner dash repo](https://github.com/AdaCompNUS/diner-dash-s
 - Basic knowledge of Python
 - A stable internet connection
 - A Google account
+- A GitHub account
+- A zoom account
 
 ### Objective
 Using Reinforcement Learning(RL) algorithms and a **maximum training timestep of 10 million**, maximise the average rewards from 100 games/episodes of Diner Dash.
@@ -63,7 +65,7 @@ Please choose **both files** before submitting:
 A sample submission can be found [here](https://github.com/AISG-Technology-Team/Diner-Dash-Workshop/tree/master/sample_submission).
 
 ### Submission platform
-Each participant should have been given a link via email for submission and viewing of the leaderboard. Please keep this link private and do not share it with others. If you face any difficulty in using the link, please contact [Linxu](mailto:linxu@aisingapore.org).
+Each participant should receive a link via email for submission and viewing of the leaderboard. Please keep this link private and do not share it with others. If you face any difficulty in using the link, please contact [Lin Xu](mailto:linxu@aisingapore.org).
 
 Alternatively, the leaderboard can be viewed at this [link](https://aisummerschool.aisingapore.org/submission) as well.
 
@@ -93,7 +95,7 @@ We will be using this repo's [issues](https://github.com/AISG-Technology-Team/Di
 ### AI Singapore (Organisers)
 - Dr Winkler
 - Benjamin Chua
-- Linxu
+- Lin Xu
 - Haixun
 - Sean
 
