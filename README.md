@@ -92,7 +92,7 @@ The top 3 ranking teams would present their approach and learning points. Certif
 ## Additional Resources
 - [RL Stable Baselines Repo](https://github.com/hill-a/stable-baselines)
 - [RL Stable Baselines Tutorial + Colab Notebooks](https://github.com/araffin/rl-tutorial-jnrr19)
-- [DinerDash Gym: A Benchmark for Policy Learning in High-Dimensional Action Space](https://github.com/AISG-Technology-Team/Diner-Dash-Workshop/tree/master/DinerDash-Gym_-A-Benchmark-for-Policy-Learning-in-High-Dimensional-Action-Space.pdf)
+- [DinerDash Gym: A Benchmark for Policy Learning in High-Dimensional Action Space](https://github.com/AISG-Technology-Team/Diner-Dash-Workshop/blob/master/DinerDash%20Gym_%20A%20Benchmark%20for%20Policy%20Learning%20in%20High-Dimensional%20Action%20Space.pdf)
 - [Deep Q-learning (DQN) Tutorial](https://www.analyticsvidhya.com/blog/2019/04/introduction-deep-q-learning-python/)
 - [RL Library for tensorflow](https://github.com/tensorflow/agents): [TF agent DQN Tutorial](https://github.com/tensorflow/agents/blob/master/docs/tutorials/1_dqn_tutorial.ipynb)
 
