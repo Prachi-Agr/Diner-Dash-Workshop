@@ -53,7 +53,7 @@ Please see the "Testing of Policies and Verification of Submission" section in t
 ### Submission Format
 Please choose **both files** before submitting:
 - Google Colab Notebook (.ipynb)
-    - Filled with names of group members and algorithms used
+    - Filled with Team Name, Team ID, names of group members and algorithms used
     - Please ensure that the notebook is ran and displays training outputs
     - Action lists in notebook must match the submitted json file
 - Json file (.json)
