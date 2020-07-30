@@ -27,6 +27,8 @@ Background of this field of RL (both theoretical and practical applications)
 ## Diner Dash Introduction
 Author of the Diner Dash Simulator: Siwei
 
+Siwei will introduce the features and background of the DinerDash simulator as well as some of the challenges and difficuties one may face when training our agent.
+
 Please refer to the [diner dash repo](https://github.com/AdaCompNUS/diner-dash-simulator) for more information.
 
 ## Diner Dash Challenge
@@ -90,6 +92,7 @@ The top 3 ranking teams would present their approach and learning points. Certif
 ## Additional Resources
 - [RL Stable Baselines Repo](https://github.com/hill-a/stable-baselines)
 - [RL Stable Baselines Tutorial + Colab Notebooks](https://github.com/araffin/rl-tutorial-jnrr19)
+- [DinerDash Gym: A Benchmark for Policy Learning in High-Dimensional Action Space](https://github.com/AISG-Technology-Team/Diner-Dash-Workshop/tree/master/DinerDash-Gym_-A-Benchmark-for-Policy-Learning-in-High-Dimensional-Action-Space.pdf)
 - [Deep Q-learning (DQN) Tutorial](https://www.analyticsvidhya.com/blog/2019/04/introduction-deep-q-learning-python/)
 - [RL Library for tensorflow](https://github.com/tensorflow/agents): [TF agent DQN Tutorial](https://github.com/tensorflow/agents/blob/master/docs/tutorials/1_dqn_tutorial.ipynb)
 
