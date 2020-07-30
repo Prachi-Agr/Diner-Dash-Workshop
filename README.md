@@ -14,6 +14,11 @@ This workshop provides an interactive avenue for participants to learn about Rei
 | 4pm  | [Random seeds given for testing,](#Random-seeds) [Submission platform opens](#Submission-platform) |
 | 9pm  | Cut off for submissions |
 
+#### 6 August 2020, Thursday (GMT +8)
+| **Time** | **Programme** |
+| - | - |
+| 5pm | [Award Presentation](#Award-Presentation) |
+
 ## Introduction to Reinforcement Learning
 Speaker: [Akshay Narayan](https://www.comp.nus.edu.sg/cs/bio/anarayan/)
 
@@ -78,6 +83,9 @@ Cut off time for submission is as per the [official schedule](#Official-Schedule
 
 ### Question and Answer
 We will be using this repo's [issues](https://github.com/AISG-Technology-Team/Diner-Dash-Workshop/issues) for question and answer. Please discuss within your group first and if the query is still unresolved, check if a relevant issue has been raised. If none exist, please raise a new issue. Feel free to answer other participants' queries as well if you have faced similar issues and found a resolution.
+
+## Award Presentation
+The top 3 ranking teams would present their approach and learning points. Certificates would also be awarded to them for their achievements.
 
 ## Additional Resources
 - [RL Stable Baselines Repo](https://github.com/hill-a/stable-baselines)
