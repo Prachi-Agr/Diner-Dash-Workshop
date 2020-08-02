@@ -110,4 +110,4 @@ The top 3 ranking teams would present their approach and learning points. Certif
 - Haixun
 - Sean
 
-[Back to top](#Reinforcement-Learning:-DinerDash-challenge)
+[Back to top](#reinforcement-learning-dinerdash-challenge)
