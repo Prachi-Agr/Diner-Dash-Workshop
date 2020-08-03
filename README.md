@@ -22,7 +22,7 @@ This workshop provides an interactive avenue for participants to learn about Rei
 ## Introduction to Reinforcement Learning
 Speaker: [Akshay Narayan](https://www.comp.nus.edu.sg/cs/bio/anarayan/)
 
-Background of this field of RL (both theoretical and practical applications)
+This is an introductory talk on reinforcement learning (RL). In this talk, we will introduce the vocabulary of RL, cover the basics of sequential decision making and RL. We will touch upon value function based and policy search methods for solving RL problems. We will look at some applications and limitations of RL.
 
 ## Diner Dash Introduction
 Author of the Diner Dash Simulator: Siwei
